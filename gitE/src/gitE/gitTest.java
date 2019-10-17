@@ -11,7 +11,7 @@ public class gitTest {
 //=======
 		//Commit.
 		System.out.println("NewBranch");
-		//COMP.
+		//COMP.1
 //>>>>>>> refs/remotes/macY/master
 
 }
