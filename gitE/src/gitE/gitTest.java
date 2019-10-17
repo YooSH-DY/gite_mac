@@ -6,6 +6,7 @@ public class gitTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		//Commit.
+		System.out.println("NewBranch");
 
 }
 }
