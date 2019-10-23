@@ -6,7 +6,7 @@ public class gitTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		//P
-		System.out.println("ECLIPSE . GIT");
+		System.out.println("ECLIPSE . GITT");
 
 }
 }
